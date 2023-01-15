@@ -1,0 +1,19 @@
+{
+    "name": "d0b3rm4nn/mictlantecuhtli-chk-bot",
+    "description": "telegram checker bot",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "D0b3rm4nn\\MictlantecuhtliChkBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mictlan",
+            "email": "mictlanmexicanmafia@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
